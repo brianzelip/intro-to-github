@@ -58,3 +58,7 @@ bzelip@hshsl.umaryland.edu
 - [NCBI on GitHub](https://github.com/ncbi/)
 - [GitHub API response for NCBI repositories](https://api.github.com/orgs/ncbi/repos)
 - [JHU COVID dashboard source](https://github.com/CSSEGISandData/COVID-19)
+
+---
+
+Slides artwork source: https://githubhackathon.com/.
