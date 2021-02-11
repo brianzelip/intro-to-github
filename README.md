@@ -1,4 +1,4 @@
-# Intro to GitHub workshop
+# Introduction to GitHub workshop
 
 Brian Zelip, Emerging Technologies Librarian
 
