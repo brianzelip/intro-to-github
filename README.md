@@ -16,7 +16,7 @@ bzelip@hshsl.umaryland.edu
 
 ## Concepts
 
-- [Repository](https://docs.github.com/en/github/getting-started-with-github/github-glossary#repository)
+- [repository](https://docs.github.com/en/github/getting-started-with-github/github-glossary#repository)
 - [fork](https://docs.github.com/en/github/getting-started-with-github/github-glossary#fork)
 - [commit](https://docs.github.com/en/github/getting-started-with-github/github-glossary#commit)
 - [commit message](https://docs.github.com/en/github/getting-started-with-github/github-glossary#commit-message)
@@ -50,7 +50,7 @@ bzelip@hshsl.umaryland.edu
 
 ## URLs from workshop tour
 
-- ["FINAL".doc comic](http://phdcomics.com/comics/archive.php?comicid=1531)
+- [_"FINAL".doc_ comic](http://phdcomics.com/comics/archive.php?comicid=1531)
 - [White House budget data](https://github.com/WhiteHouse/budgetdata)
 - [Choose a License](https://choosealicense.com/)
 - [Creative Commons licenses](https://creativecommons.org/choose/)
