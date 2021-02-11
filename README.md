@@ -1,12 +1,18 @@
-# Intro to GitHub
+# Intro to GitHub workshop
+
+Brian Zelip, Emerging Technologies Librarian
+
+University of Maryland, Baltimore
+
+bzelip@hshsl.umaryland.edu
 
 ## What is GitHub
 
-- Version control system
-- Data sharing tool
+- Data sharing platform
 - Collaboration tool
-- Discovery tool
-- Publishing tool
+- Version control system
+- Discovery platform
+- Publishing platform
 
 ## Jargon
 
@@ -18,17 +24,26 @@
 - issues
 - pull request
 
-## 4 ways to access github
+## Different ways to access GitHub
 
-1. github.com
-2. GitHub Desktop App, desktop.github.com
-3. local command line interface
-4. APIs
+1. [github.com](https://github.com)
+2. [GitHub Desktop app](https://desktop.github.com)
+3. Local shell
+4. [GitHub cli tool](https://cli.github.com/)
+5. [APIs](https://docs.github.com/en/rest)
 
 ## Help
 
-- GitHub FAQhttps://help.github.com
-- GitHub Guideshttps://guides.github.com
-- GitHub video tutorialshttps://www.youtube.com/githubguides
-- GitHub Pages (GitHub’s free web hosting service)https://pages.github.com
-- Git documentationhttp://www.git-scm.com/doc
+- [GitHub FAQ](https://help.github.com)
+- [GitHub Guides](https://guides.github.com)
+- [GitHub Learning Labs](https://lab.github.com/) (more indepth than guides)
+- [GitHub video tutorials](https://www.youtube.com/githubguides)
+- [GitHub Pages (web hosting)](https://pages.github.com)
+- [Git documentation](http://www.git-scm.com/doc)
+
+## GitHub alternatives
+
+- [GitLab](https://GitLab.com)
+- [BitBucket](https://BitBucket.org)
+- [Jira](https://Jira.com)
+- [Sourcehut](https://Sourcehut.com)
